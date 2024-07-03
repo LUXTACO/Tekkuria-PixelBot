@@ -1,0 +1,5 @@
+opencv-python
+dxcam
+win32api
+numpy
+PythonOverlayLib

@@ -1,0 +1,103 @@
+{
+    "togglekey": "sidebackbutton",
+    "holdkey": "rightclick",
+    "fovsize": 420,
+    "triggerfov": 20,
+    "minarea": 60,
+    "mindistance": 115,
+    "smoothing": 1.0,
+    "similarity": 80,
+    "autoshoot": false,
+    "targetbone": "head_coords",
+    "headoffset": 0.25,
+    "torsooffset": 0.05,
+    "legsoffset": 0.13,
+    "penisoffset": 0.25,
+    "targetcolor": [
+        255,
+        0,
+        213
+    ],
+    "drawbox": true,
+    "boxsettings": {
+        "fill": true,
+        "filltype": "gradient",
+        "outlinecolor": [
+            0,
+            213,
+            255,
+            255
+        ],
+        "fillcolor": [
+            [
+                255,
+                0,
+                251,
+                40
+            ],
+            [
+                238,
+                0,
+                255,
+                85
+            ]
+        ]
+    },
+    "drawbone": true,
+    "bonesettings": {
+        "fill": true,
+        "filltype": "gradient",
+        "outlinecolor": [
+            0,
+            229,
+            255,
+            255
+        ],
+        "fillcolor": [
+            [
+                234,
+                0,
+                255,
+                40
+            ],
+            [
+                255,
+                0,
+                251,
+                85
+            ]
+        ]
+    },
+    "drawfov": true,
+    "fovsettings": {
+        "fill": false,
+        "filltype": "gradient",
+        "outlinecolor": [
+            0,
+            255,
+            255,
+            255
+        ],
+        "fillcolor": [
+            [
+                255,
+                0,
+                255,
+                40
+            ],
+            [
+                255,
+                0,
+                234,
+                85
+            ]
+        ]
+    },
+    "drawlines": false,
+    "linescolor": [
+        0,
+        255,
+        247,
+        255
+    ]
+}
