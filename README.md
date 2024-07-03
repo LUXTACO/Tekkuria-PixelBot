@@ -1,7 +1,7 @@
 # Tekkuria-PixelBot
 Tekkuria is a simple yet highly customizable pixel-based aimbot designed to assist your aim efficiently. With its sleek and intuitive graphical user interface (GUI), Tekkuria stands out for its ease of use and aesthetic appeal.
 
-## Key Features:
+## Features:
 
 - **Highly Customizable**: Fine-tune Tekkuria's behavior to match your playstyle and in-game environment for unmatched precision.
 - **Intuitive GUI**: The sleek and user-friendly interface makes Tekkuria easy to set up and use, eliminating frustration common with complex aimbots.
