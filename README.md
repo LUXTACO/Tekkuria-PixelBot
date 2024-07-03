@@ -46,3 +46,18 @@ To use Tekkuria, follow these steps:
     
 3. **Double click the binary and enjoy!**
    - Included binary is for windows only
+     
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request.
+
+## License
+
+This project is licensed under the terms of the Apache License 2.0 license.
+
+---
+<p align="center" >
+  <b> >>> JOIN THE DISCORD <<< </b>
+    <br>
+  https://discord.gg/PdeTUZ3M62
+</p>
