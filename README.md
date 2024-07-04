@@ -1,7 +1,7 @@
 ----
 
 <p align="center">
-  <img src="./media/logo.png" style="width: 35%; height: auto;">
+  <img src="./media/logo.jpg" style="width: 35%; height: auto;">
 </p>
 
 ----
@@ -61,7 +61,11 @@ Binary
     
 3. **Double click the binary and enjoy!**
    - Included binary is for windows only
-     
+
+<p align="center">
+  <img src="./media/menu.png" style="width: 70%; height: auto;">
+</p>
+
 -----
 ### <p align="center">📦 Contribute 📦</p>
 <br>
