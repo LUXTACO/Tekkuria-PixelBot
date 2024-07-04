@@ -1,16 +1,30 @@
-# Tekkuria-PixelBot
-Tekkuria is a simple yet highly customizable pixel-based aimbot designed to assist your aim efficiently. With its sleek and intuitive graphical user interface (GUI), Tekkuria stands out for its ease of use and aesthetic appeal.
+----
 
-## Features:
+<p align="center">
+  <img src="./media/logo.png" style="width: 35%; height: auto;">
+</p>
 
-- **Highly Customizable**: Fine-tune Tekkuria's behavior to match your playstyle and in-game environment for unmatched precision.
-- **Intuitive GUI**: The sleek and user-friendly interface makes Tekkuria easy to set up and use, eliminating frustration common with complex aimbots.
-- **Enhanced Aiming**: Assist your aim efficiently with Tekkuria's pixel-based approach.
+----
+### <p align="center">🎮 Tekkuria 🎮</p>
+<br>
 
-## Usage
-To use Tekkuria, follow these steps:
+<p align="" >
+  Before you read anything else, If you are looking for the <strong>FULL IN DEPTH</strong> explanation on how it works check out my <a href="https://youtube.com/@takkeshi_dev">channel</a> in which Ill try to upload the in depth explanation of most of my scripts!
+  <br><br>
+  Tekkuria is a simple yet highly customizable pixel-based aimbot designed to assist your aim efficiently. With its sleek and intuitive graphical user interface (GUI), Tekkuria stands out for its ease of use and aesthetic appeal.
+</p>
 
-### From source
+<p align="center" >
+  <b> >>> JOIN THE DISCORD <<< </b>
+    <br>
+  https://discord.gg/PdeTUZ3M62
+</p>
+
+----
+### <p align="center">🧬 Installation 🧬</p>
+
+Source
+
 1. **Setting Up the Environment:**
    - Ensure Python is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
    - Install the required Python packages by running the following command in your terminal:
@@ -40,20 +54,34 @@ To use Tekkuria, follow these steps:
      ```
    - The compiled executable will be located in the `output` directory.
 
-### From precompiled binary
+Binary
+
 1. **Download the binary from the [`Releases`](https://github.com/LUXTACO/Tekkuria-PixelBot/releases) tab**
    - Make sure to not modify the folders included in the zip
     
 3. **Double click the binary and enjoy!**
    - Included binary is for windows only
      
-## Contributing
+-----
+### <p align="center">📦 Contribute 📦</p>
+<br>
 
-Contributions are welcome! Please feel free to submit a pull request.
+<p align="">
+  Osussist is an open source project and welcomes contributions from anyone who is interested. If you want to help improve the tool, you can fork this repository and make a pull request with your changes. You can also report any issues or suggestions on the issues tab.
+</p>
 
-## License
+----
 
-This project is licensed under the terms of the MIT license.
+### <p align="center">📌 Disclaimer 📌</p>
+<br>
+
+<p align="">
+    Please use this program only for educational purposes.
+    <br><br>
+    It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.
+    <br><br>
+    Also please learn how to use your computer before dming or making a github issue, if you ask for stuff like "whats the cheat directory" I WILL NOT help you.
+</p>
 
 ---
 <p align="center" >
